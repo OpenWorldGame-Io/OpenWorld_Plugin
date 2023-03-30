@@ -32,4 +32,11 @@
 - Click on "Show Output Log" to watch the output of the build processes
 - Once the Build is complete, you should be able to double-click on the binary executable files to play.
 - Once open, you can choose "Play Lyra -> Start a Game -> OpenSapce" to play the customized Expanse level with the additional functions mentioned above.
-- If you want to play this newly build version with others, simply zip the folder and share (e.g. on Dropbox, Google Drive, etc).
+- If you want to play this newly build version with others, simply zip the folder and share (e.g. on Dropbox, Google Drive, etc).![2](https://user-images.githubusercontent.com/118783344/228934001-7fff6b62-5d5f-4c7b-869d-1c827c60410b.jpg)
+
+![1](https://user-images.githubusercontent.com/118783344/228933995-46cc431a-3384-4729-921a-29f1f4c46c90.jpeg)
+![2](https://user-images.githubusercontent.com/118783344/228934140-e05c4c02-06fe-4c40-aa3a-39177dbd53d5.jpg)
+![3](https://user-images.githubusercontent.com/118783344/228934006-931c621a-36c6-4cd5-a7f0-28d008ca4f48.jpg)
+![4](https://user-images.githubusercontent.com/118783344/228934014-9bb308ba-f35c-4a1a-a40f-3b397f0475ba.jpeg)
+![5](https://user-images.githubusercontent.com/118783344/228934019-d5057a7f-01c6-4040-a76a-ba66b301150d.jpeg)
+
