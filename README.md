@@ -3,13 +3,19 @@
 ## To play test the pre-Built Game:
 - Grab the latest versions from here:
   - [OpenWorld - All Builds](https://drive.google.com/drive/folders/1_ZObODcccQm6E5Y8RsOlOiryJd6r56bR?usp=share_link) (Win and Mac)
-  - Run the `LyraGame` executable in the root of the folder `OpenWorld` folder
+  - Run the `LyraGame` executable in the root of the `OpenWorld` folder
   - Choose -> Play -> Start Game -> Open Space
 ![image](https://github.com/user-attachments/assets/6844b2ce-e2ff-46b9-a0be-bcfce1bca820)
-  - This opens a customizeable level with interactive blocks and signs/images
-  - Use the "z" key to place a new box, the "x" key to place a new sign/picture and the "p" key to pickup either
+  - This opens a customizeable level with interactive blocks and pictures
+  - Use these keys to use new functions:
+    - "N", to clear inventory, drop the pistol
+    - "Z", to drop a metal box, for building
+    - "X", to drop a "16x9" picture which loads "https://bit.ly/random169" by default.  You can approach the picture to see the URL field where you can copy'n'paste in any Image URL.
+    - "P", to pickup an metal box or picture actor.
 ![image](https://github.com/user-attachments/assets/8e8c28cc-5961-4792-9bf8-991fb9fa6e30)
 ![image](https://github.com/user-attachments/assets/1016b6fb-cf8b-4867-b96e-7acb47d4e96d)
+  - Use blocks and sign to build platform and walls
+![image](https://github.com/user-attachments/assets/fa7ef242-5810-41c2-a07d-6f06751e729c)
 
 ## To open the project in the Unreal Editor:
 
