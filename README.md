@@ -2,7 +2,14 @@
 
 ## To play test the pre-Built Game:
 - Grab the latest versions from here:
-  - [OpenWorld - All Builds](https://drive.google.com/drive/folders/1_ZObODcccQm6E5Y8RsOlOiryJd6r56bR?usp=share_link) (Win and Mac) 
+  - [OpenWorld - All Builds](https://drive.google.com/drive/folders/1_ZObODcccQm6E5Y8RsOlOiryJd6r56bR?usp=share_link) (Win and Mac)
+  - Run the `LyraGame` executable in the root of the folder `OpenWorld` folder
+  - Choose -> Play -> Start Game -> Open Space
+![image](https://github.com/user-attachments/assets/6844b2ce-e2ff-46b9-a0be-bcfce1bca820)
+  - This opens a customizeable level with interactive blocks and signs/images
+  - Use the "z" key to place a new box, the "x" key to place a new sign/picture and the "p" key to pickup either
+![image](https://github.com/user-attachments/assets/8e8c28cc-5961-4792-9bf8-991fb9fa6e30)
+![image](https://github.com/user-attachments/assets/1016b6fb-cf8b-4867-b96e-7acb47d4e96d)
 
 ## To open the project in the Unreal Editor:
 
