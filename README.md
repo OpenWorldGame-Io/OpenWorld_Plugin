@@ -1,9 +1,9 @@
 # OpenWorld
-Opensource Unreal Engine 5 example project that will:
+The repo is an open-source Unreal Engine 5 example project that will:
 - Add a new level to the Lyra Starter Project
-- Add additional functional in this level to:
-  - Add new objects (blocks, wall images, etc)
-  - Ability to pick and drop these new actors
+- Add additional functionality in this level to:
+  - Add new actors/objects to customized the level (blocks, flat images, etc)
+  - Ability to pickup and drop these new actors
   - Ability to update the URL for the image/photo blocks
   
 ## To play test the pre-Built Game:
