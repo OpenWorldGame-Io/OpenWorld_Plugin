@@ -1,5 +1,11 @@
 # OpenWorld
-
+Opensource Unreal Engine 5 example project that will:
+- Add a new level to the Lyra Starter Project
+- Add additional functional in this level to:
+  - Add new objects (blocks, wall images, etc)
+  - Ability to pick and drop these new actors
+  - Ability to update the URL for the image/photo blocks
+  
 ## To play test the pre-Built Game:
 - Grab the latest versions from here:
   - [OpenWorld - All Builds](https://drive.google.com/drive/folders/1_ZObODcccQm6E5Y8RsOlOiryJd6r56bR?usp=share_link) (Win and Mac)
